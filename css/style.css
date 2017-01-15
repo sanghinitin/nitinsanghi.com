@@ -5,13 +5,29 @@
 .first-line{
     font-family: Helvetica Neue;
     color: #080808;
-    background-color: #ffffff;
+    /*background-color: #ffffff;*/
     width: auto; margin-top: 20%;
 }
 
 .first{
     font-family: Helvetica Neue;
     color: #080808;
-    background-color: #ffffff;
+    /*background-color: #ffffff;*/
     width: auto;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.work{
+    float: right;
+    margin-top: 3%;
+    
+}
+.content{
+    padding: 10px;
+}
+.name {
+    background-color: black;
+    color: darkgreen;
 }
